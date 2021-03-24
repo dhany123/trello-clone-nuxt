@@ -1,0 +1,26 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "title": "Start",
+            "tasks": [
+                {
+                    "id": 1,
+                    "name": "json-server",
+                    "description": "typicode"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Done",
+            "tasks": [
+                {
+                    "id": 1,
+                    "name": "xx",
+                    "description": "typicodex"
+                }
+            ]
+        }
+    ]
+}
